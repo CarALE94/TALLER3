@@ -1,0 +1,22 @@
+body{
+	font-family: Verdana; 
+	background-color: #fae4fe   ;
+}
+h3{
+	background-color: #03fd10 ;
+	text-align: center;
+	color:  #006329  ;
+	padding: 10px;
+}
+
+
+blockquote{
+	line-height: 25px; 
+	text-align: center;
+	background-color: #a8f883    ;
+	width:60%;
+	height: 400px;
+	padding:8px;
+	margin:100px ;
+	margin-left: 250px;
+}
